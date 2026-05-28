@@ -1,0 +1,1 @@
+odin build . -debug -o:aggressive -define:LOC_DEBUG=false
